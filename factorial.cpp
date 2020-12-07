@@ -11,7 +11,7 @@ int n;
 cout<<"enter your number "<<endl;
 cin >> n;
 
-cout<<"the factoria for this value is<<factorial(n)<<endl;
+cout<<"the factorial for this value is<<factorial(n)<<endl;
 
 
 
